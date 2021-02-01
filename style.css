@@ -1,11 +1,5 @@
-@import url(/fonts/Bodoni\ Moda/BodoniModa-VariableFont_opsz)
-
-
-
-
 .header.main-menu.nav-item.nav-link{
-    src: url(fonts/Bodoni\ Moda/BodoniModa-VariableFont_opsz);
-    font-family: cursive;
+    font-family: 'Bodoni Moda', serif;
     text-transform:capitalize;
     color: lightslategray;
 }
