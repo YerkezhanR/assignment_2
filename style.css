@@ -1,0 +1,188 @@
+@import url(/fonts/Bodoni\ Moda/BodoniModa-VariableFont_opsz)
+
+
+
+
+.header.main-menu.nav-item.nav-link{
+    src: url(fonts/Bodoni\ Moda/BodoniModa-VariableFont_opsz);
+    font-family: cursive;
+    text-transform:capitalize;
+    color: lightslategray;
+}
+
+.header.main-menu.navbar-nav.acrive a{
+    background-color: ivory;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: seagreen;
+    background-clip: text;
+    
+}
+
+.header.main-menu.navbar-nav.acrive a:hover{
+    background-color: ivory;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: seagreen;
+    background-clip: text;
+    
+}
+
+.navbar-dark.navbar-nav.nav-link{
+    color: #fff;
+    padding-left: 20px;
+}
+
+.navbar{
+    text-transform:capitalize;
+    color:darkgrey;
+    padding-left: 50px 0px;
+    letter-spacing: 0.15rem;
+}
+
+
+.navbar-dark .navbar-nav .nav-link .active,
+.navbar-dark .navbar-nav .nav-link:hover{
+    color:seagreen;
+}
+
+.heading-content{
+    position: absolute;
+    top: 30%;
+    width:100%;
+}
+
+.heading-content h5{
+    font-weight:bolder;
+    color: black;
+    font: size 1em;
+    top: 80%;
+    width:100%;
+    font-family: 'Bodoni Moda', serif;
+}
+
+
+.heading-content h1{
+    position: absolute;
+    font-weight:bolder;
+    color: black;
+    font-size:4em;
+    top: 30%;
+    width:100%;
+    font-family: 'Bodoni Moda', serif;
+    letter-spacing: 00.15rem;
+}
+
+.row{
+    padding-left: 10%;
+    padding-right: 5%;
+    float: left;
+}
+
+p{
+    font-weight:bolder;
+    color:black;
+    font-family: 'Bodoni Moda', serif;
+    font-size:1.2em;
+}
+
+ul{
+    font-weight:bolder;
+    color: black;
+    font-family: 'Bodoni Moda', serif;
+    font-size:1em;
+}
+
+
+#about .butttton{
+    border:2px solid cornflowerblue;
+    width: 40%;
+    padding-top: 30px;
+    background: darkblue;
+    background-color: cornflowerblue;
+    border-radius: 5px;
+}
+
+#about .butttton a{
+    text-transform: uppercase;
+}
+
+#about .butttton:hover{
+    border:2px solid blue;
+    cursor: pointer;
+}
+
+display-5{
+    position: absolute;
+    top: 30%;
+    width:100%;
+    font-weight:bolder;
+    color: black;
+    font: size 1em;
+    top: 80%;
+    width:100%;
+    font-family: 'Bodoni Moda', serif;
+}
+
+#project .butttton{
+    border:2px solid cornflowerblue;
+    width: 40%;
+    padding-top: 30px;
+    background: darkblue;
+    background-color: cornflowerblue;
+    border-radius: 5px;
+}
+
+#project .butttton:hover{
+    border:2px solid blue;
+    color: black;
+    cursor: pointer;
+}
+
+td{
+    width: 70%;
+    cursor: pointer;
+    margin-top: 30px;
+    padding-top: 30px;
+    font-family: 'Bodoni Moda', serif;
+    font-weight: bold;
+}
+
+#email .group{
+    margin-top: 20px;
+    text-align: center;
+    display: flex;
+    font-family: 'Bodoni Moda', serif;
+}
+
+#email.p{
+    font-family: 'Bodoni Moda', serif;
+    text-align: center;
+    margin: 20px;
+    font-size:0.8em;
+}
+h2{
+    font-family: 'Bodoni Moda', serif;
+    font-weight: bold;
+    letter-spacing: 0.15rem;
+    margin-top: 20px;
+}
+
+#contacts .p {
+    font-family: 'Bodoni Moda', serif;
+    text-align: center;
+    letter-spacing: 0.15rem;
+}
+#id{
+    font-family: 'Bodoni Moda', serif;
+
+}
+.logoicon {
+    position: relative;
+    font-family: 'Bodoni Moda', serif;
+}
+
+
+.header_4{
+    float: left;
+    
+}
+
